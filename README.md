@@ -4,7 +4,7 @@
 <html class="dark" lang="en"><head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>ALEX.DEV | Student Portfolio</title>
+<title>Marya.DEV | Student Portfolio</title>
 <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
 <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
 <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
@@ -309,7 +309,7 @@
 <div class="absolute inset-0 bg-gradient-to-tr from-primary/10 to-transparent pointer-events-none"></div>
 <h2 class="font-headline-lg text-headline-lg mb-6 relative z-10">Have a project in mind?</h2>
 <p class="font-body-lg text-body-lg text-on-surface-variant mb-10 max-w-xl mx-auto relative z-10">
-                    I'm currently looking for summer internship opportunities for 2025. Let's build something extraordinary together.
+                    I'm currently looking for summer internship opportunities for 2026. Let's build something extraordinary together.
                 </p>
 <a class="inline-flex items-center gap-3 bg-primary text-on-primary px-10 py-5 rounded-2xl font-extrabold text-xl hover:scale-105 transition-all duration-300 relative z-10 group" href="mailto:hello@alex.dev">
                     Get In Touch
